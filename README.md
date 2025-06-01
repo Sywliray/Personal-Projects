@@ -5,6 +5,7 @@ A short 1-2 sentence description of what your project does.
 
 ## 🛠️ Tech Stack
 Language: Python
+
 libraries: Numpy, Pandas, scikit-learn, matplotlib, seaborn and etc.
 
 ## 🌟 Key Features
@@ -16,4 +17,5 @@ libraries: Numpy, Pandas, scikit-learn, matplotlib, seaborn and etc.
 
 ## 📬 Contact
 Email: caroline.xhc@gmail.com
+
 Phone: +852 68595812
