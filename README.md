@@ -2,6 +2,5 @@
 
 
 ## 📬 Contact
-Email: caroline.xhc@gmail.com
-
+Email: valeska.xu@gmail.com
 Phone: +852 68595812
